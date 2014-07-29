@@ -1,5 +1,5 @@
 
-Welcome! Here is a Strings Functions project I built on LearnStreet's Code Garage using ruby.
+Welcome! Here is a Strings Functions project I built on LearnStreet's Code Garage using python.
 ===============================================================================================================
 
 Project description
