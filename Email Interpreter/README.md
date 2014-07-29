@@ -1,5 +1,5 @@
 
-Welcome! Here is a Email Interpreter project I built on LearnStreet's Code Garage using ruby.
+Welcome! Here is a Email Interpreter project I built on LearnStreet's Code Garage using python.
 ===============================================================================================================
 
 Project description
