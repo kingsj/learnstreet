@@ -1,11 +1,12 @@
 
-Welcome! Here is a Validation project I built on LearnStreet's Code Garage using javascript.
+Welcome! Here is a Validation project I built on LearnStreet's Code Garage using python.
 ===============================================================================================================
 
 Project description
 -------------------------
 
-In this project, you will write code to validate fields of an account creation form. You will write code that makes sure you entered a valid username, email address, phone number, and password, as well as make sure their password field matches their confirm password field.
+In this project, you will write code to validate fields of an account creation form.<br>
+You will write code that makes sure you entered a valid username, email address, phone number, and password, as well as make sure their password field matches their confirm password field.
 
 Try it out!
 --------------
