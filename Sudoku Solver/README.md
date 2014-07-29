@@ -1,5 +1,5 @@
 
-Welcome! Here is a Sudoku Solver project I built on LearnStreet's Code Garage using javascript.
+Welcome! Here is a Sudoku Solver project I built on LearnStreet's Code Garage using python.
 ===============================================================================================================
 
 Project description
