@@ -1,5 +1,5 @@
 
-Welcome! Here is a Connect Four project I built on LearnStreet's Code Garage using ruby.
+Welcome! Here is a Connect Four project I built on LearnStreet's Code Garage using javascript.
 ===============================================================================================================
 
 Project description
