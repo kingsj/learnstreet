@@ -1,11 +1,13 @@
 
-Welcome! Here is a Bank Teller project I built on LearnStreet's Code Garage using ruby.
+Welcome! Here is a Bank Teller project I built on LearnStreet's Code Garage using javascript.
 ===============================================================================================================
 
 Project description
 -------------------------
 
-In this project, you will build a bank simulator/ATM Machine. Upon completion it is possible to log in and create multiple accounts, deposit and withdraw money, and transfer funds. Error messages and popups are shown and a easy-to-use GUI is implemented.
+In this project, you will build a bank simulator/ATM Machine.
+<br>
+Upon completion it is possible to log in and create multiple accounts, deposit and withdraw money, and transfer funds. Error messages and popups are shown and a easy-to-use GUI is implemented.
 
 
 Try it out!
